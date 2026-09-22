@@ -1,0 +1,1 @@
+var e={1:"Lunes",2:"Martes",3:"Miercoles",4:"Jueves",5:"Viernes",6:"Sabado",7:"Domingo"},r={1:"LUN",2:"MAR",3:"MIE",4:"JUE",5:"VIE",6:"SAB",7:"DOM"},t=[1,2,3,4,5,6,7],n=["Pecho","Espalda","Hombros","Biceps","Triceps","Piernas","Gluteos","Core","Cardio","Cuerpo completo"];export{e as a,r as b,t as c,n as d};

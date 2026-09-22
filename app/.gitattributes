@@ -1,0 +1,3 @@
+# Build generado: se publica tal cual, sin conversion de finales de linea.
+# ngsw.json guarda el hash de cada fichero y un cambio de EOL lo invalidaria.
+* -text

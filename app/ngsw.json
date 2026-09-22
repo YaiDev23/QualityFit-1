@@ -1,0 +1,147 @@
+{
+  "configVersion": 1,
+  "timestamp": 1790109358421,
+  "index": "/QualityFit/app/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/QualityFit/app/chunk-2525ZAMI.js",
+        "/QualityFit/app/chunk-347LSNJJ.js",
+        "/QualityFit/app/chunk-4QGJNNI4.js",
+        "/QualityFit/app/chunk-62USMPGE.js",
+        "/QualityFit/app/chunk-AGEPAPUG.js",
+        "/QualityFit/app/chunk-FMKVOJVF.js",
+        "/QualityFit/app/chunk-FXPZTHZV.js",
+        "/QualityFit/app/chunk-GZKDPWMM.js",
+        "/QualityFit/app/chunk-HC5KGLIC.js",
+        "/QualityFit/app/chunk-I5EHRKWI.js",
+        "/QualityFit/app/chunk-IDTOV76J.js",
+        "/QualityFit/app/chunk-KRZ2GXVN.js",
+        "/QualityFit/app/chunk-L5KIKNTP.js",
+        "/QualityFit/app/chunk-LEPHSK4D.js",
+        "/QualityFit/app/chunk-MIT6NTKA.js",
+        "/QualityFit/app/chunk-NW26OTUN.js",
+        "/QualityFit/app/chunk-OVJLP7DY.js",
+        "/QualityFit/app/chunk-PDNW3LI6.js",
+        "/QualityFit/app/chunk-Q6OWKIFC.js",
+        "/QualityFit/app/chunk-RY6RED26.js",
+        "/QualityFit/app/chunk-SDUEMYZ5.js",
+        "/QualityFit/app/chunk-TDRBBPQD.js",
+        "/QualityFit/app/chunk-TFGF5JSE.js",
+        "/QualityFit/app/chunk-UIGZEDL5.js",
+        "/QualityFit/app/chunk-VUFPCIGE.js",
+        "/QualityFit/app/chunk-XD3MWAXK.js",
+        "/QualityFit/app/chunk-YMDWBF3A.js",
+        "/QualityFit/app/chunk-ZRZ6TYGG.js",
+        "/QualityFit/app/favicon.ico",
+        "/QualityFit/app/index.html",
+        "/QualityFit/app/main-2TQ2CFVS.js",
+        "/QualityFit/app/manifest.webmanifest",
+        "/QualityFit/app/polyfills-5CFQRCPP.js",
+        "/QualityFit/app/styles-3YVHYXUG.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/QualityFit/app/assets/apple-touch-icon.png",
+        "/QualityFit/app/assets/icon-192.png",
+        "/QualityFit/app/assets/icon-512.png",
+        "/QualityFit/app/assets/icon-maskable-512.png",
+        "/QualityFit/app/assets/sql-wasm.wasm",
+        "/QualityFit/app/media/barlow-400-NENW7MY5.woff2",
+        "/QualityFit/app/media/barlow-500-XG5KS5C2.woff2",
+        "/QualityFit/app/media/barlow-600-APFZWJSU.woff2",
+        "/QualityFit/app/media/barlow-600-italic-3B3W2YTM.woff2",
+        "/QualityFit/app/media/barlow-700-5OFOGNFS.woff2",
+        "/QualityFit/app/media/barlow-condensed-600-WUDKPSWC.woff2",
+        "/QualityFit/app/media/barlow-condensed-700-5GARACM4.woff2",
+        "/QualityFit/app/media/barlow-condensed-700-italic-FXOCALEB.woff2",
+        "/QualityFit/app/media/barlow-condensed-800-C7LOS5FO.woff2"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/QualityFit/app/assets/apple-touch-icon.png": "26b4903a4a399684a5504aa1ec15e31406cc3c31",
+    "/QualityFit/app/assets/icon-192.png": "5ece4d2aa13bb8032c1d94b20c2e394396ab789d",
+    "/QualityFit/app/assets/icon-512.png": "dc38766d92afed2f88be01e3c37cff4b29ad266a",
+    "/QualityFit/app/assets/icon-maskable-512.png": "2e8865d1390870373681f85bcfc3a4871e6e2b81",
+    "/QualityFit/app/assets/sql-wasm.wasm": "3afa58d816c3454fa2b6ba4a2b49cb24aa10a812",
+    "/QualityFit/app/chunk-2525ZAMI.js": "c058c8a64ccbcb6c04c0d4ba8154680386a72ac7",
+    "/QualityFit/app/chunk-347LSNJJ.js": "73abd632a1ed7bd33ff0e0e7d379e6707de57486",
+    "/QualityFit/app/chunk-4QGJNNI4.js": "b8efcb2c8ba22864f03c089192b776e3d70b2f8d",
+    "/QualityFit/app/chunk-62USMPGE.js": "df6f378e9271ca2ffac6910977501a7fc2b45a4a",
+    "/QualityFit/app/chunk-AGEPAPUG.js": "ed433e6a228fdf945353c824b4dad4cfba0814f9",
+    "/QualityFit/app/chunk-FMKVOJVF.js": "902fe56dd683ea7825c00aa507ed470f1369751e",
+    "/QualityFit/app/chunk-FXPZTHZV.js": "bf536552e8127a1c3e131b8d251198718e0544d0",
+    "/QualityFit/app/chunk-GZKDPWMM.js": "148ed202b5f844416f93c33fcc97e71de30cc3c8",
+    "/QualityFit/app/chunk-HC5KGLIC.js": "a401b2edfcdbec7dcfaa7371e9f13978acfc9fdd",
+    "/QualityFit/app/chunk-I5EHRKWI.js": "a1ad70f59fa993d696983629825eed8372132237",
+    "/QualityFit/app/chunk-IDTOV76J.js": "e88216c2fd9b877cac98ffaf80dcf4a6d267b9a9",
+    "/QualityFit/app/chunk-KRZ2GXVN.js": "4c7e550ae9c6cc717eb877a7d0098979c6326613",
+    "/QualityFit/app/chunk-L5KIKNTP.js": "3bc2f6e96f67cd960bd3c505579f20e9bc80432d",
+    "/QualityFit/app/chunk-LEPHSK4D.js": "665a403cbf8b40819397e24ea263486283c03f3e",
+    "/QualityFit/app/chunk-MIT6NTKA.js": "4aaf7d8f159e7a01a65e25751b4aec0d6028dd9b",
+    "/QualityFit/app/chunk-NW26OTUN.js": "38d889f57d81475f8fb6ba7ba3b38d5451eebeb5",
+    "/QualityFit/app/chunk-OVJLP7DY.js": "3570f465d91a637ce705ce13c54b630b03f47229",
+    "/QualityFit/app/chunk-PDNW3LI6.js": "8022e0228a308c122a915a9a618621122357ff7c",
+    "/QualityFit/app/chunk-Q6OWKIFC.js": "7128b2a9c445e41862651d46425f4f45dff8c388",
+    "/QualityFit/app/chunk-RY6RED26.js": "4ce5c8ab6fe82db160b7d1091a7c3c85da62e42e",
+    "/QualityFit/app/chunk-SDUEMYZ5.js": "c459ab9c7ebdb537207e293db4eb982c7b1a2410",
+    "/QualityFit/app/chunk-TDRBBPQD.js": "9f0bda3d05923b56d2ad2b62e709a40b12128a9d",
+    "/QualityFit/app/chunk-TFGF5JSE.js": "043e0fbb20744fbd4d596c4e4049622f27fa7a69",
+    "/QualityFit/app/chunk-UIGZEDL5.js": "420e33ac195ae5668d5db97aa181ade5234cfd0d",
+    "/QualityFit/app/chunk-VUFPCIGE.js": "6746d3b9d0df544151b00c1a7a5f72363a123cee",
+    "/QualityFit/app/chunk-XD3MWAXK.js": "a91ba62c098c4d4be9fb29be40798bea0a7a2121",
+    "/QualityFit/app/chunk-YMDWBF3A.js": "b643696f9f0e336fc4c6a47c8755987d67fc6adc",
+    "/QualityFit/app/chunk-ZRZ6TYGG.js": "3c379a90c49495a63c905790ab28e48820dcaf2d",
+    "/QualityFit/app/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/QualityFit/app/index.html": "2f681cc1f1389b454053f08253aa45a6088adeaf",
+    "/QualityFit/app/main-2TQ2CFVS.js": "34f6f139a04ce91d06572cd357413459987ec0aa",
+    "/QualityFit/app/manifest.webmanifest": "2be888d8408849025c2e0884db2332956b60c12e",
+    "/QualityFit/app/media/barlow-400-NENW7MY5.woff2": "4f0f26f139db2a7eee91dca038012399b3abdc47",
+    "/QualityFit/app/media/barlow-500-XG5KS5C2.woff2": "ad8e9490a983a615bfe43dcd4ad332e611178948",
+    "/QualityFit/app/media/barlow-600-APFZWJSU.woff2": "800311e32df4fd8460628e4927d5231cdd21757f",
+    "/QualityFit/app/media/barlow-600-italic-3B3W2YTM.woff2": "76725757db6c8ab4c6f70b78611df621d7c5a92b",
+    "/QualityFit/app/media/barlow-700-5OFOGNFS.woff2": "25ba8a978a3a493ec9f835f7f2cdefe16b55b295",
+    "/QualityFit/app/media/barlow-condensed-600-WUDKPSWC.woff2": "0a7db4011ad8495d15f98572df81b76120c267ee",
+    "/QualityFit/app/media/barlow-condensed-700-5GARACM4.woff2": "05ba48a1a6621b8a5f0c9735aaffd0e9577797e5",
+    "/QualityFit/app/media/barlow-condensed-700-italic-FXOCALEB.woff2": "93395241fd9a9cbe4fd634128cd230c6f3c2a2c6",
+    "/QualityFit/app/media/barlow-condensed-800-C7LOS5FO.woff2": "db5ae3568cf2002039d81d4bd5ea1162adf40a26",
+    "/QualityFit/app/polyfills-5CFQRCPP.js": "f2241e9a25858f895ce299d15f6f22e849e2fd72",
+    "/QualityFit/app/styles-3YVHYXUG.css": "8f2f5ba0e892301a28f21945fb1d58b030408c23"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
